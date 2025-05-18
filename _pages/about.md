@@ -9,9 +9,9 @@ redirect_from:
 
 ## Biography
 
-Hello! I am **Weiwei He**, a Postdoctoral Associate in Computational Biophysics and Theoretical Chemistry at **New York University Abu Dhabi**, affiliated with the **Division of Science** and the **Chemistry Program** since Summer 2023. I work under the supervision of **Prof. Serdal Kirmizialtin** in the [**Kirmizialtin Lab**](https://www.kirmizialtinlab.org/). I received my Ph.D. in **Biophysics** from **New York University**, also under the guidance of Prof. Kirmizialtin, and earned my B.Sc. in **Chemistry** from **Southern University of Science and Technology (SUSTech)** in 2017.
+Hello! I am **Weiwei He**, a Postdoctoral Associate in Computational Biophysics and Theoretical Chemistry at **New York University Abu Dhabi**, affiliated with the **Division of Science** and the **Chemistry Program** since Summer 2023. I work under the supervision of **Prof. Serdal Kirmizialtin** in the [**Kirmizialtin Lab**](https://www.kirmizialtinlab.org/). I received my Ph.D. in **Biophysics** from **New York University**, also under the guidance of Prof. Kirmizialtin, and earned my B.Sc. in **Chemistry** from **Southern University of Science and Technology (SUSTech)**.
 
-
+My research integrates **molecular dynamics (MD) simulations**, **machine learning**, and **experimental data** to understand the **structure, dynamics, and interactions of nucleic acids (DNA/RNA)**. Key areas include:
 
 I am very fortunate to with internal collaborations with **Prof. Panče Naumov**, and broader collaborations with:
 
@@ -27,25 +27,6 @@ My research integrates **molecular dynamics (MD) simulations**, **machine learni
 - Phase behavior and condensation of DNA  
 - Controllable RNA folding via chemical modifications  
 - Multi-scale modeling of nucleic acid–vector assemblies for gene therapy
-
----
-
-## Teaching and Mentoring
-
-I regularly lead workshops and tutorials on biomolecular modeling, MD simulations (basic and advanced), trajectory analysis, and molecular visualization.
-
-### Mentored Students
-
-- **Sara Mahmoud Elgengehi** (Research Assistant, NYU Abu Dhabi, 2024– )  
-- **Nour Alkhatib** (PhD student, NYU, 2023– )  
-- **Arafat Saleem** (High school, Cranleigh Abu Dhabi, 2023– )  
-- **Ina Negoiu** (Capstone/Summer Research, NYU Abu Dhabi, 2023– )  
-- **Bereket Deneke** (Summer Research, NYU, 2024)  
-- **Tianze Xia** (Undergraduate, NYU, 2024)  
-- **Hiba Aljayyousi** (PhD student, NYU Abu Dhabi, 2023)  
-- **Yu Shen** (Undergrad, NYU Shanghai → PhD student, NYU, 2022–2023)  
-- **Marko Brnovic** (Undergrad, NYU Abu Dhabi → MSc, Waterloo, 2022–2023)  
-- **Jieon Mun** (Summer Research, NYU Abu Dhabi, 2022)
 
 ---
 
@@ -74,14 +55,6 @@ I regularly lead workshops and tutorials on biomolecular modeling, MD simulation
 - **71st ACA Annual Meeting** – New York, 2021 (*Invited Talk*)  
 - **ACS Spring 2021 National Meeting** – San Antonio, 2021 (*Poster*)  
 - **Biophysical Society Meetings** – 2020–2021 (*Posters*)
-
----
-
-## Project Highlights
-
-- **Improving All-Atom Simulations of RNA Using Artificial Intelligence**  
-  *Research Enhancement Grant* – NYUAD, $250,000 USD  
-  *PIs:* Prof. Serdal Kirmizialtin & Prof. Mark Tuckerman (2022–present)
 
 ---
 
