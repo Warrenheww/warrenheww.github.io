@@ -1,18 +1,16 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Towards Integrated Computational Biophysics and Engineering of Biomolecules"
 permalink: /portfolio/
 author_profile: true
 ---
 
-## Theoretical Foundations of Usable XAI
+## Probing Nucleic Acid Dynamics with Low-Resolution Data and Data-driven Simulations
 
-Several interpretation techniques have been developed to enhance the explainability of deep learning models. However, few of them have delved into a fundamental question: *Do we truly trust these explainers?* In other words, are these interpretable methods faithful to the underlying models? This problem hinders the practical application of XAI. Thus, a usable XAI should provide faithful interpretations.
-
-My research mainly focuses on improving the explanation faithfulness of current methods from three aspects: **stability**, **controllability**, and **consistency**.
+Probing the dynamic structure of nucleic acids remains a fundamental challenge due to their conformational flexibility and the limitations of experimental resolution. While solution SAXS provides valuable global shape information, its low resolution makes it difficult to resolve structural details essential for mechanistic insights. I mainly focused on bridging this gap through the integratiion of SAXS with molecular simulations to achieve atomistic interpretations of DNA and RNA dynamics. I focus on three key areas: **structure refinement**, **conformational sampling**, and **experimental validation**. This approach has enabled the resolution of complex nucleic acid structures in solution and the discovery of new regulatory mechanisms in RNA biology.
 
 <div align="center">
-  <img src="/images/profile.jpg" width="600">
+  <img src="/images/framework1.jpg" width="600">
 </div>
 
 ---
