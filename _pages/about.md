@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## Biography
-
 Hello! I am Lijie Hu, a final-year Ph.D. Candidate in Computer Science at King Abdullah University of Science and Technology (KAUST) since Spring 2021. I am very fortunate to be advised by [Prof. Di Wang](https://shao3wangdi.github.io/) in the [PRADA Lab](https://pradalab1.github.io/) (Provable Responsible AI and Data Analytics Lab). Before that, I received my Master's degree in Mathematics from Renmin University of China.
 
 My research interests are **Explainable AI** and **Privacy-preserving Machine Learning**. Specifically, my research goals are to develop **Usable XAI-as-a-Service systems** and **Useful Explainable AI toolkits**. Here, *usable* refers to providing faithful model understanding services. *Useful* means the toolkit helps improve model performance and trustworthiness. My research advances these goals across four main directions:
