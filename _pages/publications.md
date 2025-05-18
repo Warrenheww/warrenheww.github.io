@@ -13,14 +13,14 @@ Below are selected peer-reviewed journal publications. Equal contribution is mar
 
 - **W. He†**, Y. Chen†, L. Pollack\*, and S. Kirmizialtin\*. *The Structural Plasticity of Nucleic Acid Duplexes Revealed by WAXS and MD*. *Science Advances*, **2021**, *7*, 17. **[Link](https://www.science.org/doi/10.1126/sciadv.abf6106)**
 
-- Y. Chen†, **W. He†**, L. Pollack\*, and S. Kirmizialtin\*. *Insights into the structural stability of major groove RNA triplexes by WAXS-guided MD simulations*. *Cell Reports Physical Science*, **2022**, *3*, 100971. **Cover article** **[Link](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(22)00257-0)**
+- Y. Chen†, **W. He†**, L. Pollack\*, and S. Kirmizialtin\*. *Insights into the structural stability of major groove RNA triplexes by WAXS-guided MD simulations*. *Cell Reports Physical Science*, **2022**, *3*, 100971. **Cover article** **[Link](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(22)00257-0)** **[Media](https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2022.41)**
 
 - T. Wang†, **W. He†**, S.A. Pabit, L. Pollack\*, and S. Kirmizialtin\*. *Sequence-dependent conformational preferences of disordered single-stranded RNA*. *Cell Reports Physical Science*, **2024**, *5*, 102264. **[Link](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(24)00569-1)**
 
 - **W. He†**, A. Henning-Knechtel†, and S. Kirmizialtin\*. *Visualizing RNA Structures by SAXS-driven MD Simulations*. *Frontiers in Bioinformatics*, **2022**, *2*. **[Link](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2022.781949/full)**
 
 ### SARS-CoV-2 RNA in COVID-19 
-- **W. He†**, J.S. Emeterio†, M. Woodside, S. Kirmizialtin\*, and L. Pollack\*. *Atomistic structure of the SARS-CoV-2 pseudoknot in solution from SAXS-driven molecular dynamics*. *Nucleic Acids Research*, **2023**, *51*, 11332. **[Link](https://academic.oup.com/nar/article/51/20/11332/7306679)**
+- **W. He†**, J.S. Emeterio†, M. Woodside, S. Kirmizialtin\*, and L. Pollack\*. *Atomistic structure of the SARS-CoV-2 pseudoknot in solution from SAXS-driven molecular dynamics*. *Nucleic Acids Research*, **2023**, *51*, 11332. **[Link](https://academic.oup.com/nar/article/51/20/11332/7306679)** **[Media](https://www.bnl.gov/newsroom/news.php?a=221744)**
 
 ### DNA Assembly and Disassembly
 
