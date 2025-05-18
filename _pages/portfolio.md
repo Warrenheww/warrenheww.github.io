@@ -10,7 +10,7 @@ author_profile: true
 Probing the dynamic structure of nucleic acids remains a fundamental challenge due to their conformational flexibility and the limitations of experimental resolution. While solution SAXS provides valuable global shape information, its low resolution makes it difficult to resolve structural details essential for mechanistic insights. I mainly focused on bridging this gap through the integratiion of SAXS with molecular simulations to achieve atomistic interpretations of DNA and RNA dynamics. I focus on three key areas: **structure refinement**, **conformational sampling**, and **experimental validation**. This approach has enabled the resolution of complex nucleic acid structures in solution and the discovery of new regulatory mechanisms in RNA biology.
 
 <div align="center">
-  <img src="/images/framework1.png" width="1000">
+  <img src="/images/framework1.png" width="600">
 </div>
 
 ---
@@ -22,7 +22,7 @@ Accurately modeling RNA remains a major challenge due to its flexible backbone a
 I applied machine learning methods to analyze simulation deviations from experimental data, to identify imbalances in energy terms—such as electrostatics and van der Waals interactions. This informed a targeted refinement strategy, resulting in a force field that significantly improves MD accuracy for flexible RNA motifs like single-stranded and Helix-Junction-Helix (HJH) structures. The refined model achieves enhanced agreement with experimental observables and provides a more faithful representation of RNA dynamics in solution.
 
 <div align="center">
-  <img src="/images/framework2.png" width="400">
+  <img src="/images/framework2.png" width="800">
 </div>
 
 ---
