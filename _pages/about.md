@@ -11,7 +11,7 @@ redirect_from:
 
 Hello! I am **Weiwei He**, a Postdoctoral Associate in Computational Biophysics and Theoretical Chemistry at **New York University Abu Dhabi**, affiliated with the **Division of Science** and the **Chemistry Program** since Summer 2023. I work under the supervision of **Prof. Serdal Kirmizialtin** in the [**Kirmizialtin Lab**](https://www.kirmizialtinlab.org/). I received my Ph.D. in **Biophysics** from **New York University**, also under the guidance of Prof. Kirmizialtin, and earned my B.Sc. in **Chemistry** from **Southern University of Science and Technology (SUSTech)**.
 
-My research integrates **molecular dynamics (MD) simulations**, **machine learning**, and **experimental data** to understand the **structure, dynamics, and interactions of nucleic acids (DNA/RNA)**. I focus on SAXS/WAXS-guided MD for RNA/DNA structure refinement, RNA force field development and validation, DNA phase behavior and condensation, RNA function control via chemical modifications, and multi-scale modeling of nucleic acid–vector assemblies for gene therapy. I am fortunate to collaborate internally with **Prof. Panče Naumov** in bimaterials modeling, and more broadly with:
+My research integrates **molecular dynamics (MD) simulations**, **machine learning**, and **experimental data** to understand the **structure, dynamics, and interactions of nucleic acids (DNA/RNA)**. I focus on SAXS/WAXS-guided MD for RNA/DNA structure refinement, RNA force field development and validation, DNA phase behavior and condensation, RNA function control via chemical modifications, and multi-scale modeling of nucleic acid–vector assemblies for gene therapy. I am fortunate to collaborate internally with **Prof. Panče Naumov** on bimaterials modeling, and more broadly with:
 
 - **Prof. Lois Pollack** (Nucleic Acids Biophysics)
 - **Prof. Mark E. Tuckerman** (Biomolecular Dynamics)
@@ -21,7 +21,7 @@ My research integrates **molecular dynamics (MD) simulations**, **machine learni
 
 ---
 
-## Honors and Awards
+## 🎖 Honors and Awards
 
 - Postdoctoral Associate Conference Grant (2024)  
 - Poster Presentation Award – 14th European Biophysics Congress (2023)  
