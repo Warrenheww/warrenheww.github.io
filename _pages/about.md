@@ -58,7 +58,7 @@ My research integrates **molecular dynamics (MD) simulations**, **machine learni
   *Molecular Therapy: Nucleic Acids* (Elsevier)
 
 ## 🔥 News
-- *2025.04*: &nbsp;🎉 **Sara Mahmoud Elgengehi ** (RA, NYU Abu Dhabi, 2024–2025) has been admitted to the **Ph.D. program at New York University**. Sara worked with me on developing computational tools for predicting the Young’s modulus of biomaterials.
+- *2025.04*: &nbsp;🎉 **Sara Mahmoud Elgengehi** (RA, NYU Abu Dhabi, 2024–2025) has been admitted to the **Ph.D. program at New York University**. Sara worked with me on developing computational tools for predicting the Young’s modulus of biomaterials.
 - *2024.05*: &nbsp;🎉 **Yu Shen** (Undergraduate, NYU Shanghai, 2022–2023) has been admitted to the **Ph.D. program at New York University**. Yu worked with me and contributed to DNA condensation projects during her research stay.  
 - *2023.05*: &nbsp;🎉 **Marko Brnovic** (Undergraduate \& RA, NYU Abu Dhabi, 2022–2023) has been admitted to the **Master’s program at the University of Waterloo**. Marko worked with me on DNA assembly and phase transition.
 
