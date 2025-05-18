@@ -13,7 +13,7 @@ Hello! I am **Weiwei He**, a Postdoctoral Associate in Computational Biophysics 
 
 My research integrates **molecular dynamics (MD) simulations**, **machine learning**, and **experimental data** to understand the **structure, dynamics, and interactions of nucleic acids (DNA/RNA)**. I focus on SAXS/WAXS-guided MD for RNA/DNA structure refinement, RNA force field development and validation, DNA phase behavior and condensation, RNA function control via chemical modifications, and multi-scale modeling of nucleic acid–vector assemblies for gene therapy. I am fortunate to collaborate internally with **Prof. Panče Naumov** on bimaterials modeling, and more broadly with:
 
-- **Prof. Lois Pollack** (Nucleic Acids Biophysics)
+- [**Prof. Lois Pollack**](https://pollack.research.engineering.cornell.edu/) (Nucleic Acids Biophysics)
 - **Prof. Mark E. Tuckerman** (Biomolecular Dynamics)
 - **Profs. Ting Wang & Jia Sheng** (RNA Modifications and Photocontrol)
 - **Profs. Xiangyun Qiu & George Shubeita** (Biopolymer Phase Transition)
