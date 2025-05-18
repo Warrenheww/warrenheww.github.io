@@ -11,22 +11,13 @@ redirect_from:
 
 Hello! I am **Weiwei He**, a Postdoctoral Associate in Computational Biophysics and Theoretical Chemistry at **New York University Abu Dhabi**, affiliated with the **Division of Science** and the **Chemistry Program** since Summer 2023. I work under the supervision of **Prof. Serdal Kirmizialtin** in the [**Kirmizialtin Lab**](https://www.kirmizialtinlab.org/). I received my Ph.D. in **Biophysics** from **New York University**, also under the guidance of Prof. Kirmizialtin, and earned my B.Sc. in **Chemistry** from **Southern University of Science and Technology (SUSTech)**.
 
-My research integrates **molecular dynamics (MD) simulations**, **machine learning**, and **experimental data** to understand the **structure, dynamics, and interactions of nucleic acids (DNA/RNA)**. Key areas include:
-
-I am very fortunate to with internal collaborations with **Prof. Panče Naumov**, and broader collaborations with:
+My research integrates **molecular dynamics (MD) simulations**, **machine learning**, and **experimental data** to understand the **structure, dynamics, and interactions of nucleic acids (DNA/RNA)**. I focus on SAXS/WAXS-guided MD for RNA/DNA structure refinement, RNA force field development and validation, DNA phase behavior and condensation, controllable RNA folding via chemical modifications, and multi-scale modeling of nucleic acid–vector assemblies for gene therapy. I am very fortunate to with internal collaborations with **Prof. Panče Naumov**, and broader collaborations with:
 
 - **Prof. Lois Pollack** (Nucleic Acids Biophysics)
 - **Prof. Mark E. Tuckerman** (Biomolecular Dynamics)
 - **Profs. Ting Wang & Jia Sheng** (RNA Modifications and Photocontrol)
 - **Profs. Xiangyun Qiu & George Shubeita** (Biopolymer Phase Transition)
 
-My research integrates **molecular dynamics (MD) simulations**, **machine learning**, and **experimental data** to understand the **structure, dynamics, and interactions of nucleic acids (DNA/RNA)**. Key areas include:
-
-- SAXS/WAXS-guided MD for RNA/DNA structure refinement  
-- RNA force field development and validation  
-- Phase behavior and condensation of DNA  
-- Controllable RNA folding via chemical modifications  
-- Multi-scale modeling of nucleic acid–vector assemblies for gene therapy
 
 ---
 
@@ -61,7 +52,7 @@ My research integrates **molecular dynamics (MD) simulations**, **machine learni
 ## Community and Reviewing Service
 
 - Reviewer for:  
+  *Biology*, *Biomolecules*, *Condensed Matter*, *IJMS*, *Mathematics*, *Processes* (MDPI)
+- Reviewer for:  
   *Current Opinion in Chemical Biology*, *Current Opinion in Structural Biology*,  
   *Molecular Therapy: Nucleic Acids* (Elsevier)  
-- Reviewer for:  
-  *Biology*, *Biomolecules*, *Condensed Matter*, *IJMS*, *Mathematics*, *Processes* (MDPI)
