@@ -11,10 +11,10 @@ I have actively contributed to academic training through teaching workshops and 
 
 ### Workshops and Tutorials
 
-- Led semesterly laboratory workshops and tutorials on:
+- Led regularly laboratory workshops and tutorials on:
   - Biomolecular modeling and structural preparation
   - Molecular dynamics simulations (basic and advanced)
-  - Trajectory analysis and feature extraction
+  - Trajectory analysis and data visualization
   - Molecular visualization and presentation tools
 
 ### Student Mentoring
