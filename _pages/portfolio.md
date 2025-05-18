@@ -7,7 +7,7 @@ author_profile: true
 
 ## Probing Nucleic Acid Dynamics with Low-Resolution Data and Data-driven Simulations
 
-Probing the dynamic structure of nucleic acids remains a fundamental challenge due to their conformational flexibility and the limitations of experimental resolution. While solution SAXS provides valuable global shape information, its low resolution makes it difficult to resolve structural details essential for mechanistic insights. I mainly focused on bridging this gap through the integratiion of SAXS with molecular simulations to achieve atomistic interpretations of DNA and RNA dynamics. I focus on three key areas: **conformational sampling**, **ensemble refinement**, and **experimental validation**. This approach has enabled the resolution of complex nucleic acid structures in solution and the discovery of new regulatory mechanisms in RNA biology.
+Probing the dynamic structure of nucleic acids remains a fundamental challenge due to their conformational flexibility and the limitations of experimental resolution. While solution SAXS provides valuable global shape information, its low resolution makes it difficult to resolve structural details essential for mechanistic insights. I mainly focused on bridging this gap through the integratiion of SAXS with molecular simulations to achieve atomistic interpretations of DNA and RNA dynamics. I focus on three key areas: **enhanced sampling**, **experimental data-driven MD**, and **ensemble refinement**. This approach has enabled the resolution of complex nucleic acid structures in solution and the discovery of new regulatory mechanisms in RNA biology.
 
 <div align="center">
   <img src="/images/framework1.png" width="900">
