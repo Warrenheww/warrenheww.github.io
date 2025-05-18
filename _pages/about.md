@@ -7,52 +7,86 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Lijie Hu, a final-year Ph.D. Candidate in Computer Science at King Abdullah University of Science and Technology (KAUST) since Spring 2021. I am very fortunate to be advised by [Prof. Di Wang](https://shao3wangdi.github.io/) in the [PRADA Lab](https://pradalab1.github.io/) (Provable Responsible AI and Data Analytics Lab). Before that, I received my Master's degree in Mathematics from Renmin University of China.
+## Biography
 
-My research interests are **Explainable AI** and **Privacy-preserving Machine Learning**. Specifically, my research goals are to develop **Usable XAI-as-a-Service systems** and **Useful Explainable AI toolkits**. Here, *usable* refers to providing faithful model understanding services. *Useful* means the toolkit helps improve model performance and trustworthiness. My research advances these goals across four main directions:
+Hello! I am **W. He**, a Postdoctoral Associate in Computational Biophysics and Theoretical Chemistry at **New York University Abu Dhabi**, affiliated with the **Chemistry Program** and the **Center for Smart Engineering Materials (CSEM)**. I work under the supervision of **Prof. Serdal Kirmizialtin**, with internal collaborations with **Prof. Panče Naumov**, and broader collaborations with:
 
-- **Theoretical Foundations of Usable XAI:**  
-  Topics include stability ([ICML'24 Spotlight](https://openreview.net/pdf?id=YdwwWRX20q), [ICLR'24](https://openreview.net/pdf?id=rp0EdI8X4e), [AAAI'23 Oral](https://ojs.aaai.org/index.php/AAAI/article/view/26517)),  
-  controllability ([ICML'25,a](https://arxiv.org/abs/2411.11667), [ArXiv2](https://arxiv.org/abs/2405.15476)),  
-  and consistency ([NeurIPS'24](https://arxiv.org/abs/2410.21494), [EMNLP'24,a](https://arxiv.org/pdf/2410.06606)).
+- **Prof. Lois Pollack** (Nucleic Acids Biophysics, Cornell)
+- **Prof. Mark E. Tuckerman** (Biomolecular Dynamics, NYU)
+- **Profs. Ting Wang & Jia Sheng** (RNA Biology)
+- **Profs. Xiangyun Qiu & George Shubeita** (Biopolymer Phase Transition)
 
-- **Useful XAI in Large Models:**  
-  Enhance safety ([AAAI'25 Oral,a](https://ojs.aaai.org/index.php/AAAI/article/view/34710), [ICML'25,b](https://arxiv.org/abs/2410.06331)),  
-  boost performance ([ArXiv](https://openreview.net/pdf?id=yrnrvfXFaV)),  
-  steer behavior ([ArXiv](https://arxiv.org/pdf/2410.03595)).
+My research integrates **molecular dynamics (MD) simulations**, **machine learning**, and **experimental data** to understand the **structure, dynamics, and interactions of nucleic acids (DNA/RNA)**. Key areas include:
 
-- **System for XAI:**  
-  Focused on interpretability acceleration.
+- SAXS/WAXS-guided MD for RNA/DNA structure refinement  
+- RNA force field development and validation  
+- Phase behavior and condensation of DNA  
+- Controllable RNA folding via chemical modifications  
+- Multi-scale modeling of nucleic acid–vector assemblies for gene therapy
 
-- **XAI for Science:**  
-  Applications in healthcare ([ICLR'24](https://openreview.net/pdf?id=rp0EdI8X4e), [NeurIPS'24](https://arxiv.org/abs/2410.21494)),  
-  traffic, material science, and marine science.
+Previously, I earned a Ph.D. in **Biophysics** from **New York University** (2018–2023), including a research visit to **Cornell University** (2022), and completed my B.Sc. in **Chemistry** at **Southern University of Science and Technology (SUSTech)** in 2017.
 
 ---
 
-## Privacy-Preserving Machine Learning
+## Teaching and Mentoring
 
-In this area, I mainly focus on **private statistical estimation** and its application to **natural language models**. Highlights include works published in:
+I regularly lead workshops and tutorials on biomolecular modeling, MD simulations (basic and advanced), trajectory analysis, and molecular visualization.
 
-- [JMLR,a](https://jmlr.org/papers/v24/21-0523.html), [JMLR,b](https://jmlr.org/papers/v25/22-0079.html)  
-- [ECAI'23](https://arxiv.org/abs/2010.13520), [AISTATS'23](https://proceedings.mlr.press/v206/hu23a/hu23a.pdf)  
-- [TKDE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10314000), [PODS'22](https://dl.acm.org/doi/abs/10.1145/3517804.3524144), [ALT'22](https://proceedings.mlr.press/v167/su22a/su22a.pdf)  
-- [EMNLP'24 Oral,c](https://arxiv.org/abs/2410.08027), [EACL'24](https://aclanthology.org/2024.findings-eacl.33/)
+### Mentored Students
 
----
-
-## 🎓 Openings
-
-**I will be joining the [Machine Learning Department](https://mbzuai.ac.ae/research-department/machine-learning-department/) at [MBZUAI](https://mbzuai.ac.ae/) as a Tenure-track Assistant Professor in August 2025.**
-
-I am seeking highly motivated PhD students, Postdocs, RAs, and Visiting PhD students.  
-- **PhD positions**: start in Fall 2025 or Fall 2026  
-- **Postdocs/RAs/Visitors**: flexible start date  
-
-If you're interested in working with me, please email your **CV**, **academic transcript**, and a **brief research plan**.
+- **Sara Mahmoud Elgengehi** (Research Assistant, NYU Abu Dhabi, 2024– )  
+- **Nour Alkhatib** (PhD student, NYU, 2023– )  
+- **Arafat Saleem** (High school, Cranleigh Abu Dhabi, 2023– )  
+- **Ina Negoiu** (Capstone/Summer Research, NYU Abu Dhabi, 2023– )  
+- **Bereket Deneke** (Summer Research, NYU, 2024)  
+- **Tianze Xia** (Undergraduate, NYU, 2024)  
+- **Hiba Aljayyousi** (PhD student, NYU Abu Dhabi, 2023)  
+- **Yu Shen** (Undergrad, NYU Shanghai → PhD student, NYU, 2022–2023)  
+- **Marko Brnovic** (Undergrad, NYU Abu Dhabi → MSc, Waterloo, 2022–2023)  
+- **Jieon Mun** (Summer Research, NYU Abu Dhabi, 2022)
 
 ---
 
-## 🎖 Honors and Awards
+## Honors and Awards
 
-- AISTATS 2023 Top Reviewer  
+- Postdoctoral Associate Conference Grant (2024)  
+- Poster Presentation Award – 14th European Biophysics Congress (2023)  
+- Summer Research Grant – NYU COVID-19 Antivirals Project (2022)  
+- Global PhD Fellowship – NYU (2018–2023)  
+- Universiade International Scholarship (2018)  
+- IKA Eminence Scholarship (2016)
+
+---
+
+## Selected Talks and Posters
+
+- **APS March Meeting** – Hong Kong, 2025 (*Talk*)  
+- **Decrypting Complexity in Biological and Active Matter** – Abu Dhabi, 2025 (*Poster*)  
+- **Yongriver Forum** – Ningbo, 2024 (*Talk*)  
+- **ACS Regional MEA Conference** – Abu Dhabi, 2024 (*Poster*)  
+- **Fuzhou International Forum of Young Scholars** – China, 2024 (*Talk*)  
+- **14th European Biophysics Congress** – Stockholm, 2023 (*Poster*)  
+- **Biophysical Society 67th Annual Meeting** – San Diego, 2023 (*Poster*)  
+- **ACS Fall 2022 National Meeting** – Chicago, 2022 (*Poster*)  
+- **Gordon Research Conference: Computational Chemistry** – Barcelona, 2022 (*Poster*)  
+- **71st ACA Annual Meeting** – New York, 2021 (*Invited Talk*)  
+- **ACS Spring 2021 National Meeting** – San Antonio, 2021 (*Poster*)  
+- **Biophysical Society Meetings** – 2020–2021 (*Posters*)
+
+---
+
+## Project Highlights
+
+- **Improving All-Atom Simulations of RNA Using Artificial Intelligence**  
+  *Research Enhancement Grant* – NYUAD, $250,000 USD  
+  *PIs:* Prof. Serdal Kirmizialtin & Prof. Mark Tuckerman (2022–present)
+
+---
+
+## Community and Reviewing Service
+
+- Reviewer for:  
+  *Current Opinion in Chemical Biology*, *Current Opinion in Structural Biology*,  
+  *Molecular Therapy: Nucleic Acids* (Elsevier)  
+- Reviewer for:  
+  *Biology*, *Biomolecules*, *Condensed Matter*, *IJMS*, *Mathematics*, *Processes* (MDPI)
