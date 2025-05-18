@@ -29,7 +29,7 @@ Below are selected peer-reviewed journal publications. Equal contribution is mar
 
 ### Force Field Optimization and Development Methods
 
-- **W. He**, N. Naleem, D. Kleiman, and S. Kirmizialtin\*. *Refining RNA force field with Small-Angle X-ray Scattering of Helix-Junction-Helix RNA*. *Journal of Physical Chemistry Letters*, **2022**, *13*, 3400. [**Code**](https://gitlab.com/KirmizialtinLab/hb_cufix)
+- **W. He**, N. Naleem, D. Kleiman, and S. Kirmizialtin\*. *Refining RNA force field with Small-Angle X-ray Scattering of Helix-Junction-Helix RNA*. *Journal of Physical Chemistry Letters*, **2022**, *13*, 3400. \[**Link**\](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c00359)\[**Code**\](https://gitlab.com/KirmizialtinLab/hb_cufix)
 
 ### Early Work and Book Chapters
 
