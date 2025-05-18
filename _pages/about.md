@@ -55,4 +55,10 @@ My research integrates **molecular dynamics (MD) simulations**, **machine learni
   *Biology*, *Biomolecules*, *Condensed Matter*, *IJMS*, *Mathematics*, *Processes* (MDPI)
 - Reviewer for:  
   *Current Opinion in Chemical Biology*, *Current Opinion in Structural Biology*,  
-  *Molecular Therapy: Nucleic Acids* (Elsevier)  
+  *Molecular Therapy: Nucleic Acids* (Elsevier)
+
+## 🔥 News
+
+- *2025.05*: &nbsp;🎉 **Yu Shen** (Undergraduate, NYU Shanghai, 2022–2023) has been admitted to the **Ph.D. program at New York University**. Yu contributed to RNA modeling projects during his research stay.  
+- *2025.05*: &nbsp;🎉 **Marko Brnovic** (Undergraduate, NYU Abu Dhabi, 2022–2023) has been admitted to the **Master’s program at the University of Waterloo**. Marko worked on nucleic acid force field validation and trajectory analysis.
+
