@@ -25,15 +25,10 @@ Accurately modeling RNA remains a major challenge due to its flexible backbone a
 
 ---
 
-## Towards Usable XAI for Science
+## Understanding Nucleic Acid Assembly in Non-Viral Gene Delivery Systems
 
-Usable XAI models are essential in AI applications for the sciences because they help researchers understand and trust the decisions made by complex models. Through interdisciplinary collaborations, I have deployed these technologies for impactful applications in:
-
-- **Healthcare**
-- **Traffic analysis**
-- **Material science**
-- **Marine science**
+Gene therapy relies on the efficient encapsulation and delivery of nucleic acid drugs, such as DNA and RNA, into target cells. The ability of these molecules to assemble and condense within delivery vectors is essential for therapeutic efficacy. My research focuses on the physical principles underlying nucleic acid–vector interactions, particularly in non-viral systems using cationic lipid nanoparticles (LNPs). I developed a theoretical and simulation-based framework to probe how **DNA assembles** and **disassembles** under varying conditions. This approach has been applied to study the **self-organization of DNA–cationic lipid complexes**, shedding light on their structural dynamics and informing the rational design of synthetic, low-toxicity delivery vectors for RNA therapeutics and mRNA vaccines.
 
 <div align="center">
-  <img src="/images/framework3.png" width="600">
+  <img src="/images/framework3.png" width="700">
 </div>
