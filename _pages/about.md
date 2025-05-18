@@ -16,7 +16,7 @@ My research integrates **molecular dynamics (MD) simulations**, **machine learni
 - **Prof. [Lois Pollack](https://pollack.research.engineering.cornell.edu/)** (Nucleic Acids Biophysics)
 - **Profs. Ting Wang & Jia Sheng** (RNA Modifications and Photocontrol)
 - **Profs. Xiangyun Qiu & George Shubeita** (Biopolymer Phase Transition)
-- [**Prof. Mark E. Tuckerman**](https://wp.nyu.edu/tuckerman_group/) (Biomolecular Dynamics)
+- **Prof. [Mark E. Tuckerman](https://wp.nyu.edu/tuckerman_group/)** (Biomolecular Dynamics)
 
 
 ---
