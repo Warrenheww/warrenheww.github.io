@@ -5,9 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Selected Publications
+## Selected Publications ("†" Equal contribution, "*" corresponding author, “_” advised student.)
 
-Below are selected peer-reviewed journal publications. Equal contribution is marked by "†", corresponding author by "*".
+## Preprints / In Review
+
+- <u>S.M. Elgengehi</u>, D.P. Karothu\*, **W. He**, R. Paul, S. Kirmizialtin\*, and P. Naumov\*. *Accurate Prediction of Young’s Moduli of Organic Crystals*. *Nature Communications*, **2025**. **Submitted**
+
+- J. Li†, J. Du†, **W. He†**, I. Adelakun, M. Zhong, S. Boyer, Y.Y. Zheng, Q. Lin, S. Kirmizialtin\*, J. Sheng\*, and T. Wang\*. *Designing reversible photoswitching azobenzene modified nucleotide for controlling biological function*. *Journal of the American Chemical Society*, **2025**. **Under revision** **[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/67a125dd81d2151a0212bcc4)**
 
 ### RNA \& DNA Biophysics and Computational Methods
 
@@ -41,12 +45,6 @@ Below are selected peer-reviewed journal publications. Equal contribution is mar
 - J. Lin, F. Wang, X. Dong, **W. He**, Y. Yuan, S. Chen, and X. Liu\*. *Catalytic Asymmetric Radical Aminoperfluoroalkylation and Aminodifluoromethylation of Alkenes with Fluoroalkylsulfonyl Chlorides*. *Nature Communications*, **2017**, *8*, 14841. **[Link](https://www.nature.com/articles/ncomms14841)**
 
 - M. Wu, **W. He**, X. Liu\*, and B. Tan\*. *Asymmetric Construction of Spirooxindoles via Organocatalytic Multicomponent Reactions of Diazooxindoles*. *Angewandte Chemie International Edition*, **2015**, *54*, 9409. **[Link](https://onlinelibrary.wiley.com/doi/10.1002/anie.201504640)**
-
-## Preprints / In Review
-
-- S.M. Elgengehi, D.P. Karothu\*, **W. He**, R. Paul, S. Kirmizialtin\*, and P. Naumov\*. *Accurate Prediction of Young’s Moduli of Organic Crystals*. *Nature Communications*, **2025**. **Submitted**
-
-- J. Li†, J. Du†, **W. He†**, I. Adelakun, M. Zhong, S. Boyer, Y.Y. Zheng, Q. Lin, S. Kirmizialtin\*, J. Sheng\*, and T. Wang\*. *Designing reversible photoswitching azobenzene modified nucleotide for controlling biological function*. *Journal of the American Chemical Society*, **2025**. **Under revision** **[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/67a125dd81d2151a0212bcc4)**
 
 
 
