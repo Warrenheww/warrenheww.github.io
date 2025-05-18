@@ -60,5 +60,5 @@ My research integrates **molecular dynamics (MD) simulations**, **machine learni
 ## 🔥 News
 
 - *2024.05*: &nbsp;🎉 **Yu Shen** (Undergraduate, NYU Shanghai, 2022–2023) has been admitted to the **Ph.D. program at New York University**. Yu worked with me and contributed to DNA condensation projects during his research stay.  
-- *2023.05*: &nbsp;🎉 **Marko Brnovic** (Undergraduate, NYU Abu Dhabi, 2022–2023) has been admitted to the **Master’s program at the University of Waterloo**. Marko worked on DNA assembly and phase transition.
+- *2023.05*: &nbsp;🎉 **Marko Brnovic** (Undergraduate \& RA, NYU Abu Dhabi, 2022–2023) has been admitted to the **Master’s program at the University of Waterloo**. Marko worked with me on DNA assembly and phase transition.
 
