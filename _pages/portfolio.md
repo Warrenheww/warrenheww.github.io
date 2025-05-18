@@ -35,5 +35,5 @@ Usable XAI models are essential in AI applications for the sciences because they
 - **Marine science**
 
 <div align="center">
-  <img src="/images/profile.jpg" width="600">
+  <img src="/images/framework3.png" width="600">
 </div>
