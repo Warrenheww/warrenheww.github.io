@@ -36,7 +36,7 @@ author_profile: true
 
 8. **W. He**, N. Naleem, D. Kleiman, and S. Kirmizialtin\*. *Refining RNA force field with Small-Angle X-ray Scattering of Helix-Junction-Helix RNA*. *Journal of Physical Chemistry Letters*, **2022**, *13*, 3400. **[Link](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c00359)** **[Code](https://gitlab.com/KirmizialtinLab/hb_cufix)**
 
-2. Y. Chen†, **W. He†**, L. Pollack\*, and S. Kirmizialtin\*. *Insights into the structural stability of major groove RNA triplexes by WAXS-guided MD simulations*. *Cell Reports Physical Science*, **2022**, *3*, 100971. **Cover article** **[Link](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(22)00257-0)** **[Media](https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2022.41)**
+$2.$ Y. Chen†, **W. He†**, L. Pollack\*, and S. Kirmizialtin\*. *Insights into the structural stability of major groove RNA triplexes by WAXS-guided MD simulations*. *Cell Reports Physical Science*, **2022**, *3*, 100971. **Cover article** **[Link](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(22)00257-0)** **[Media](https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2022.41)**
 
 ### Early Work and Book Chapters
 
