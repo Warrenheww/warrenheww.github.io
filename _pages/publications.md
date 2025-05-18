@@ -13,7 +13,7 @@ Below are selected peer-reviewed journal publications. Equal contribution is mar
 
 - **W. He†**, Y. Chen†, L. Pollack\*, and S. Kirmizialtin\*. *The Structural Plasticity of Nucleic Acid Duplexes Revealed by WAXS and MD*. *Science Advances*, **2021**, *7*, 17.
 
-- Y. Chen†, **W. He†** L. Pollack\*, and S. Kirmizialtin\*. *Insights into the structural stability of major groove RNA triplexes by WAXS-guided MD simulations*. *Cell Reports Physical Science*, **2022**, *3*, 100971. **Cover article**
+- Y. Chen†, **W. He†**, L. Pollack\*, and S. Kirmizialtin\*. *Insights into the structural stability of major groove RNA triplexes by WAXS-guided MD simulations*. *Cell Reports Physical Science*, **2022**, *3*, 100971. **Cover article**
 
 ### RNA and DNA Biophysics
 
