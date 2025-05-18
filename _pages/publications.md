@@ -25,11 +25,11 @@ Below are selected peer-reviewed journal publications. Equal contribution is mar
 
 - **W. He†**, A. Henning-Knechtel†, and S. Kirmizialtin\*. *Visualizing RNA Structures by SAXS-driven MD Simulations*. *Frontiers in Bioinformatics*, **2022**, *2*.
 
-- **W. He**, and S. Kirmizialtin\*. *Mechanism of Cationic Lipid-Induced DNA Condensation: Lipid-DNA coordination and divalent cation charge fluctuations*. *ACS Biomacromolecules*, **2024**, *25*, 4819.
+- **W. He**, and S. Kirmizialtin\*. *Mechanism of Cationic Lipid-Induced DNA Condensation: Lipid-DNA coordination and divalent cation charge fluctuations*. *ACS Biomacromolecules*, **2024**, *25*, 4819. **[Link](https://pubs.acs.org/doi/10.1021/acs.biomac.4c00192)**
 
 ### Force Field Optimization and Development Methods
 
-- **W. He**, N. Naleem, D. Kleiman, and S. Kirmizialtin\*. *Refining RNA force field with Small-Angle X-ray Scattering of Helix-Junction-Helix RNA*. *Journal of Physical Chemistry Letters*, **2022**, *13*, 3400. \[**Link**\](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c00359)\[**Code**\](https://gitlab.com/KirmizialtinLab/hb_cufix)
+- **W. He**, N. Naleem, D. Kleiman, and S. Kirmizialtin\*. *Refining RNA force field with Small-Angle X-ray Scattering of Helix-Junction-Helix RNA*. *Journal of Physical Chemistry Letters*, **2022**, *13*, 3400. **[Link](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c00359)** **[Code](https://gitlab.com/KirmizialtinLab/hb_cufix)**
 
 ### Early Work and Book Chapters
 
