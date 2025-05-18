@@ -13,6 +13,10 @@ Probing the dynamic structure of nucleic acids remains a fundamental challenge d
   <img src="/images/framework1.png" width="900">
 </div>
 
+<div align="center">
+  <img src="/images/framework4.png" width="900">
+</div>
+
 ---
 
 ## Refining RNA Force Fields with Experimental Integration
