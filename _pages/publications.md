@@ -9,7 +9,7 @@ author_profile: true
 
 Below are selected peer-reviewed journal publications. Equal contribution is marked by "†", corresponding author by "*".
 
-### RNA and DNA Biophysics and Computational Methods
+### RNA \& DNA Biophysics and Computational Methods
 
 - **W. He†**, Y. Chen†, L. Pollack\*, and S. Kirmizialtin\*. *The Structural Plasticity of Nucleic Acid Duplexes Revealed by WAXS and MD*. *Science Advances*, **2021**, *7*, 17. **[Link](https://www.science.org/doi/10.1126/sciadv.abf6106)**
 
