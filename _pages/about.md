@@ -9,11 +9,15 @@ redirect_from:
 
 ## Biography
 
-Hello! I am **W. He**, a Postdoctoral Associate in Computational Biophysics and Theoretical Chemistry at **New York University Abu Dhabi**, affiliated with the **Chemistry Program** and the **Center for Smart Engineering Materials (CSEM)**. I work under the supervision of **Prof. Serdal Kirmizialtin**, with internal collaborations with **Prof. Panče Naumov**, and broader collaborations with:
+Hello! I am **Weiwei He**, a Postdoctoral Associate in Computational Biophysics and Theoretical Chemistry at **New York University Abu Dhabi**, affiliated with the **Division of Science** and the **Chemistry Program** since Summer 2023. I work under the supervision of **Prof. Serdal Kirmizialtin** in the [**Kirmizialtin Lab**](https://www.kirmizialtinlab.org/). I received my Ph.D. in **Biophysics** from **New York University**, also under the guidance of Prof. Kirmizialtin, and earned my B.Sc. in **Chemistry** from **Southern University of Science and Technology (SUSTech)** in 2017.
 
-- **Prof. Lois Pollack** (Nucleic Acids Biophysics, Cornell)
-- **Prof. Mark E. Tuckerman** (Biomolecular Dynamics, NYU)
-- **Profs. Ting Wang & Jia Sheng** (RNA Biology)
+
+
+I am very fortunate to with internal collaborations with **Prof. Panče Naumov**, and broader collaborations with:
+
+- **Prof. Lois Pollack** (Nucleic Acids Biophysics)
+- **Prof. Mark E. Tuckerman** (Biomolecular Dynamics)
+- **Profs. Ting Wang & Jia Sheng** (RNA Modifications and Photocontrol)
 - **Profs. Xiangyun Qiu & George Shubeita** (Biopolymer Phase Transition)
 
 My research integrates **molecular dynamics (MD) simulations**, **machine learning**, and **experimental data** to understand the **structure, dynamics, and interactions of nucleic acids (DNA/RNA)**. Key areas include:
@@ -23,8 +27,6 @@ My research integrates **molecular dynamics (MD) simulations**, **machine learni
 - Phase behavior and condensation of DNA  
 - Controllable RNA folding via chemical modifications  
 - Multi-scale modeling of nucleic acid–vector assemblies for gene therapy
-
-Previously, I earned a Ph.D. in **Biophysics** from **New York University** (2018–2023), including a research visit to **Cornell University** (2022), and completed my B.Sc. in **Chemistry** at **Southern University of Science and Technology (SUSTech)** in 2017.
 
 ---
 
