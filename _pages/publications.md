@@ -13,7 +13,7 @@ author_profile: true
 
 ## Selected Publications ("†" Equal contribution, "*" corresponding author, “_” advised student.)
 
-### RNA \& DNA Biophysics and Computational Methods
+### RNA & DNA Biophysics and Computational Methods
 
 1. **W. He†**, Y. Chen†, L. Pollack\*, and S. Kirmizialtin\*. *The Structural Plasticity of Nucleic Acid Duplexes Revealed by WAXS and MD*. *Science Advances*, **2021**, *7*, 17. **[Link](https://www.science.org/doi/10.1126/sciadv.abf6106)**
 
