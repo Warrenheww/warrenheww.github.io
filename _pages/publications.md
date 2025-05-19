@@ -26,17 +26,15 @@ author_profile: true
 ### SARS-CoV-2 RNA in COVID-19 
 5. **W. He†**, J.S. Emeterio†, M. Woodside, S. Kirmizialtin\*, and L. Pollack\*. *Atomistic structure of the SARS-CoV-2 pseudoknot in solution from SAXS-driven molecular dynamics*. *Nucleic Acids Research*, **2023**, *51*, 11332. **[Link](https://academic.oup.com/nar/article/51/20/11332/7306679)** **[Media](https://www.bnl.gov/newsroom/news.php?a=221744)**
 
-### DNA Assembly and Disassembly
-
-6. **W. He**, and S. Kirmizialtin\*. *Mechanism of Cationic Lipid-Induced DNA Condensation: Lipid-DNA coordination and divalent cation charge fluctuations*. *ACS Biomacromolecules*, **2024**, *25*, 4819. **[Link](https://pubs.acs.org/doi/10.1021/acs.biomac.4c00192)**
-
-7. **W. He**, X. Qiu\*, and S. Kirmizialtin\*. *Sequence-dependent orientational coupling and electrostatic attraction in cation-mediated DNA-DNA interactions*. *Journal of Chemical Theory and Computation*, **2023**, *19*, 6827. **Cover article** **[Link](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00520)**
-
 ### RNA Force Field Optimization and Development Methods
 
-8. **W. He**, N. Naleem, D. Kleiman, and S. Kirmizialtin\*. *Refining RNA force field with Small-Angle X-ray Scattering of Helix-Junction-Helix RNA*. *Journal of Physical Chemistry Letters*, **2022**, *13*, 3400. **[Link](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c00359)** **[Code](https://gitlab.com/KirmizialtinLab/hb_cufix)**
+6. **W. He**, N. Naleem, D. Kleiman, and S. Kirmizialtin\*. *Refining RNA force field with Small-Angle X-ray Scattering of Helix-Junction-Helix RNA*. *Journal of Physical Chemistry Letters*, **2022**, *13*, 3400. **[Link](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c00359)** **[Code](https://gitlab.com/KirmizialtinLab/hb_cufix)**
 
-#- Y. Chen†, **W. He†**, L. Pollack\*, and S. Kirmizialtin\*. *Insights into the structural stability of major groove RNA triplexes by WAXS-guided MD simulations*. *Cell Reports Physical Science*, **2022**, *3*, 100971. **Cover article** **[Link](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(22)00257-0)** **[Media](https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2022.41)**
+### DNA Assembly and Disassembly
+
+7. **W. He**, and S. Kirmizialtin\*. *Mechanism of Cationic Lipid-Induced DNA Condensation: Lipid-DNA coordination and divalent cation charge fluctuations*. *ACS Biomacromolecules*, **2024**, *25*, 4819. **[Link](https://pubs.acs.org/doi/10.1021/acs.biomac.4c00192)**
+
+8. **W. He**, X. Qiu\*, and S. Kirmizialtin\*. *Sequence-dependent orientational coupling and electrostatic attraction in cation-mediated DNA-DNA interactions*. *Journal of Chemical Theory and Computation*, **2023**, *19*, 6827. **Cover article** **[Link](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00520)**
 
 ### Early Work and Book Chapters
 
