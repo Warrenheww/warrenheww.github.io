@@ -15,34 +15,45 @@ author_profile: true
 
 ### RNA & DNA Biophysics and Computational Methods
 
-1. **W. He†**, Y. Chen†, L. Pollack\*, and S. Kirmizialtin\*. *The Structural Plasticity of Nucleic Acid Duplexes Revealed by WAXS and MD*. *Science Advances*, **2021**, *7*, 17. **[Link](https://www.science.org/doi/10.1126/sciadv.abf6106)**
+<ol>
+<li><b>W. He†</b>, Y. Chen†, L. Pollack*, and S. Kirmizialtin*. <i>The Structural Plasticity of Nucleic Acid Duplexes Revealed by WAXS and MD</i>. <i>Science Advances</i>, <b>2021</b>, <i>7</i>, 17. <b><a href="https://www.science.org/doi/10.1126/sciadv.abf6106">Link</a></b></li>
 
-2. Y. Chen†, **W. He†**, L. Pollack\*, and S. Kirmizialtin\*. *Insights into the structural stability of major groove RNA triplexes by WAXS-guided MD simulations*. *Cell Reports Physical Science*, **2022**, *3*, 100971. **Cover article** **[Link](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(22)00257-0)** **[Media](https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2022.41)**
+<li>Y. Chen†, <b>W. He†</b>, L. Pollack*, and S. Kirmizialtin*. <i>Insights into the structural stability of major groove RNA triplexes by WAXS-guided MD simulations</i>. <i>Cell Reports Physical Science</i>, <b>2022</b>, <i>3</i>, 100971. <b>Cover article</b> <b><a href="https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(22)00257-0">Link</a></b> <b><a href="https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2022.41">Media</a></b></li>
 
-3. T. Wang†, **W. He†**, S.A. Pabit, L. Pollack\*, and S. Kirmizialtin\*. *Sequence-dependent conformational preferences of disordered single-stranded RNA*. *Cell Reports Physical Science*, **2024**, *5*, 102264. **[Link](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(24)00569-1)**
+<li>T. Wang†, <b>W. He†</b>, S.A. Pabit, L. Pollack*, and S. Kirmizialtin*. <i>Sequence-dependent conformational preferences of disordered single-stranded RNA</i>. <i>Cell Reports Physical Science</i>, <b>2024</b>, <i>5</i>, 102264. <b><a href="https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(24)00569-1">Link</a></b></li>
 
-4. **W. He†**, A. Henning-Knechtel†, and S. Kirmizialtin\*. *Visualizing RNA Structures by SAXS-driven MD Simulations*. *Frontiers in Bioinformatics*, **2022**, *2*. **[Link](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2022.781949/full)**
+<li><b>W. He†</b>, A. Henning-Knechtel†, and S. Kirmizialtin*. <i>Visualizing RNA Structures by SAXS-driven MD Simulations</i>. <i>Frontiers in Bioinformatics</i>, <b>2022</b>, <i>2</i>. <b><a href="https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2022.781949/full">Link</a></b></li>
+</ol>
 
-### SARS-CoV-2 RNA in COVID-19 
-5. **W. He†**, J.S. Emeterio†, M. Woodside, S. Kirmizialtin\*, and L. Pollack\*. *Atomistic structure of the SARS-CoV-2 pseudoknot in solution from SAXS-driven molecular dynamics*. *Nucleic Acids Research*, **2023**, *51*, 11332. **[Link](https://academic.oup.com/nar/article/51/20/11332/7306679)** **[Media](https://www.bnl.gov/newsroom/news.php?a=221744)**
+### SARS-CoV-2 RNA in COVID-19
+
+<ol start="5">
+<li><b>W. He†</b>, J.S. Emeterio†, M. Woodside, S. Kirmizialtin*, and L. Pollack*. <i>Atomistic structure of the SARS-CoV-2 pseudoknot in solution from SAXS-driven molecular dynamics</i>. <i>Nucleic Acids Research</i>, <b>2023</b>, <i>51</i>, 11332. <b><a href="https://academic.oup.com/nar/article/51/20/11332/7306679">Link</a></b> <b><a href="https://www.bnl.gov/newsroom/news.php?a=221744">Media</a></b></li>
+</ol>
 
 ### RNA Force Field Optimization and Development Methods
 
-6. **W. He**, N. Naleem, D. Kleiman, and S. Kirmizialtin\*. *Refining RNA force field with Small-Angle X-ray Scattering of Helix-Junction-Helix RNA*. *Journal of Physical Chemistry Letters*, **2022**, *13*, 3400. **[Link](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c00359)** **[Code](https://gitlab.com/KirmizialtinLab/hb_cufix)**
+<ol start="6">
+<li><b>W. He</b>, N. Naleem, D. Kleiman, and S. Kirmizialtin*. <i>Refining RNA force field with Small-Angle X-ray Scattering of Helix-Junction-Helix RNA</i>. <i>Journal of Physical Chemistry Letters</i>, <b>2022</b>, <i>13</i>, 3400. <b><a href="https://pubs.acs.org/doi/10.1021/acs.jpclett.2c00359">Link</a></b> <b><a href="https://gitlab.com/KirmizialtinLab/hb_cufix">Code</a></b></li>
+</ol>
 
 ### DNA Assembly and Disassembly
 
-7. **W. He**, and S. Kirmizialtin\*. *Mechanism of Cationic Lipid-Induced DNA Condensation: Lipid-DNA coordination and divalent cation charge fluctuations*. *ACS Biomacromolecules*, **2024**, *25*, 4819. **[Link](https://pubs.acs.org/doi/10.1021/acs.biomac.4c00192)**
+<ol start="7">
+<li><b>W. He</b>, and S. Kirmizialtin*. <i>Mechanism of Cationic Lipid-Induced DNA Condensation: Lipid-DNA coordination and divalent cation charge fluctuations</i>. <i>ACS Biomacromolecules</i>, <b>2024</b>, <i>25</i>, 4819. <b><a href="https://pubs.acs.org/doi/10.1021/acs.biomac.4c00192">Link</a></b></li>
 
-8. **W. He**, X. Qiu\*, and S. Kirmizialtin\*. *Sequence-dependent orientational coupling and electrostatic attraction in cation-mediated DNA-DNA interactions*. *Journal of Chemical Theory and Computation*, **2023**, *19*, 6827. **Cover article** **[Link](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00520)**
+<li><b>W. He</b>, X. Qiu*, and S. Kirmizialtin*. <i>Sequence-dependent orientational coupling and electrostatic attraction in cation-mediated DNA-DNA interactions</i>. <i>Journal of Chemical Theory and Computation</i>, <b>2023</b>, <i>19</i>, 6827. <b>Cover article</b> <b><a href="https://pubs.acs.org/doi/10.1021/acs.jctc.3c00520">Link</a></b></li>
+</ol>
 
 ### Early Work and Book Chapters
 
-9. **W. He**, and S. Kirmizialtin\*. *Exploring Cation Mediated DNA Interactions Using Computer Simulations*. *International Conference on Bio and Nanomaterials*, Springer, Cham, **2020**. **[Link](https://link.springer.com/chapter/10.1007/978-3-030-47705-9_6)**
+<ol start="9">
+<li><b>W. He</b>, and S. Kirmizialtin*. <i>Exploring Cation Mediated DNA Interactions Using Computer Simulations</i>. <i>International Conference on Bio and Nanomaterials</i>, Springer, Cham, <b>2020</b>. <b><a href="https://link.springer.com/chapter/10.1007/978-3-030-47705-9_6">Link</a></b></li>
 
-10. J. Lin, F. Wang, X. Dong, **W. He**, Y. Yuan, S. Chen, and X. Liu\*. *Catalytic Asymmetric Radical Aminoperfluoroalkylation and Aminodifluoromethylation of Alkenes with Fluoroalkylsulfonyl Chlorides*. *Nature Communications*, **2017**, *8*, 14841. **[Link](https://www.nature.com/articles/ncomms14841)**
+<li>J. Lin, F. Wang, X. Dong, <b>W. He</b>, Y. Yuan, S. Chen, and X. Liu*. <i>Catalytic Asymmetric Radical Aminoperfluoroalkylation and Aminodifluoromethylation of Alkenes with Fluoroalkylsulfonyl Chlorides</i>. <i>Nature Communications</i>, <b>2017</b>, <i>8</i>, 14841. <b><a href="https://www.nature.com/articles/ncomms14841">Link</a></b></li>
 
-11. M. Wu, **W. He**, X. Liu\*, and B. Tan\*. *Asymmetric Construction of Spirooxindoles via Organocatalytic Multicomponent Reactions of Diazooxindoles*. *Angewandte Chemie International Edition*, **2015**, *54*, 9409. **[Link](https://onlinelibrary.wiley.com/doi/10.1002/anie.201504640)**
+<li>M. Wu, <b>W. He</b>, X. Liu*, and B. Tan*. <i>Asymmetric Construction of Spirooxindoles via Organocatalytic Multicomponent Reactions of Diazooxindoles</i>. <i>Angewandte Chemie International Edition</i>, <b>2015</b>, <i>54</i>, 9409. <b><a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.201504640">Link</a></b></li>
+</ol>
 
 
 
