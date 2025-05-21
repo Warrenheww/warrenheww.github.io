@@ -9,7 +9,7 @@ author_profile: true
 
 - <ins>S.M. Elgengehi</ins>, D.P. Karothu\*, **W. He**, R. Paul, S. Kirmizialtin\*, and P. Naumov\*. *Accurate Prediction of Young’s Moduli of Organic Crystals*. *Nature Communications*, **2025**. **Submitted**
 
-- J. Li†, J. Du†, **W. He†**, I. Adelakun, M. Zhong, S. Boyer, Y.Y. Zheng, Q. Lin, S. Kirmizialtin\*, J. Sheng\*, and T. Wang\*. *Designing reversible photoswitching azobenzene modified nucleotide for controlling biological function*. *Journal of the American Chemical Society*, **2025**. **Under revision** **[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/67a125dd81d2151a0212bcc4)**
+- J. Li†, J. Du†, **W. He†**, I. Adelakun, M. Zhong, S. Boyer, Y.Y. Zheng, Q. Lin, S. Kirmizialtin\*, J. Sheng\*, and T. Wang\*. *Designing reversible photoswitching azobenzene modified nucleotide for controlling biological function*. *Journal of the American Chemical Society*, **2025**. **Accepted** **[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/67a125dd81d2151a0212bcc4)**
 
 ## Selected Publications ("†" Equal contribution, "*" corresponding author, “_” advised student.)
 
