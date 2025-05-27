@@ -13,13 +13,13 @@ author_profile: true
 
 ### RNA Modifications and Photocontrol
 
-<ol>
+<ol start="1">
 <li>J. Li†, J. Du†, <b>W. He†</b>, I. Adelakun, M. Zhong, S. Boyer, Y.Y. Zheng, Q. Lin, S. Kirmizialtin*, J. Sheng*, and T. Wang*. <i>Designing reversible photoswitching azobenzene modified nucleotide for controlling biological function</i>. <i>Journal of the American Chemical Society</i>, <b>2025</b>, <b>Accepted</b>. <b><a href="https://chemrxiv.org/engage/chemrxiv/article-details/67a125dd81d2151a0212bcc4">ChemRxiv</a></b></li>
 </ol>
 
 ### RNA & DNA Biophysics and Computational Methods
 
-<ol>
+<ol start="2">
 <li><b>W. He†</b>, Y. Chen†, L. Pollack*, and S. Kirmizialtin*. <i>The Structural Plasticity of Nucleic Acid Duplexes Revealed by WAXS and MD</i>. <i>Science Advances</i>, <b>2021</b>, <i>7</i>, 17. <b><a href="https://www.science.org/doi/10.1126/sciadv.abf6106">Link</a></b></li>
 
 <li>Y. Chen†, <b>W. He†</b>, L. Pollack*, and S. Kirmizialtin*. <i>Insights into the structural stability of major groove RNA triplexes by WAXS-guided MD simulations</i>. <i>Cell Reports Physical Science</i>, <b>2022</b>, <i>3</i>, 100971. <b>Cover article</b> <b><a href="https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(22)00257-0">Link</a></b> <b><a href="https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2022.41">Media</a></b></li>
@@ -31,13 +31,13 @@ author_profile: true
 
 ### SARS-CoV-2 RNA in COVID-19
 
-<ol start="5">
+<ol start="6">
 <li><b>W. He†</b>, J.S. Emeterio†, M. Woodside, S. Kirmizialtin*, and L. Pollack*. <i>Atomistic structure of the SARS-CoV-2 pseudoknot in solution from SAXS-driven molecular dynamics</i>. <i>Nucleic Acids Research</i>, <b>2023</b>, <i>51</i>, 11332. <b><a href="https://academic.oup.com/nar/article/51/20/11332/7306679">Link</a></b> <b><a href="https://www.bnl.gov/newsroom/news.php?a=221744">Media</a></b></li>
 </ol>
 
 ### RNA Force Field Optimization and Development Methods
 
-<ol start="6">
+<ol start="7">
 <li><b>W. He</b>, N. Naleem, D. Kleiman, and S. Kirmizialtin*. <i>Refining RNA force field with Small-Angle X-ray Scattering of Helix-Junction-Helix RNA</i>. <i>Journal of Physical Chemistry Letters</i>, <b>2022</b>, <i>13</i>, 3400. <b><a href="https://pubs.acs.org/doi/10.1021/acs.jpclett.2c00359">Link</a></b> <b><a href="https://gitlab.com/KirmizialtinLab/hb_cufix">Code</a></b></li>
 </ol>
 
