@@ -9,9 +9,13 @@ author_profile: true
 
 - <ins>S.M. Elgengehi</ins>, D.P. Karothu\*, **W. He**, R. Paul, S. Kirmizialtin\*, and P. Naumov\*. *Accurate Prediction of Young’s Moduli of Organic Crystals*. *Nature Communications*, **2025**. **Submitted**
 
-- J. Li†, J. Du†, **W. He†**, I. Adelakun, M. Zhong, S. Boyer, Y.Y. Zheng, Q. Lin, S. Kirmizialtin\*, J. Sheng\*, and T. Wang\*. *Designing reversible photoswitching azobenzene modified nucleotide for controlling biological function*. *Journal of the American Chemical Society*, **2025**. **Accepted** **[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/67a125dd81d2151a0212bcc4)**
-
 ## Selected Publications ("†" Equal contribution, "*" corresponding author, “_” advised student.)
+
+### RNA Modifications and Photocontrol
+
+<ol>
+<li>J. Li†, J. Du†, <b>W. He†</b>, I. Adelakun, M. Zhong, S. Boyer, Y.Y. Zheng, Q. Lin, S. Kirmizialtin*, J. Sheng*, and T. Wang*. <i>Designing reversible photoswitching azobenzene modified nucleotide for controlling biological function</i>. <i>Journal of the American Chemical Society</i>, <b>2025</b>, <b>Accepted</b>. <b><a href="https://chemrxiv.org/engage/chemrxiv/article-details/67a125dd81d2151a0212bcc4">ChemRxiv</a></b></li>
+</ol>
 
 ### RNA & DNA Biophysics and Computational Methods
 
@@ -35,12 +39,6 @@ author_profile: true
 
 <ol start="6">
 <li><b>W. He</b>, N. Naleem, D. Kleiman, and S. Kirmizialtin*. <i>Refining RNA force field with Small-Angle X-ray Scattering of Helix-Junction-Helix RNA</i>. <i>Journal of Physical Chemistry Letters</i>, <b>2022</b>, <i>13</i>, 3400. <b><a href="https://pubs.acs.org/doi/10.1021/acs.jpclett.2c00359">Link</a></b> <b><a href="https://gitlab.com/KirmizialtinLab/hb_cufix">Code</a></b></li>
-</ol>
-
-### RNA Modifications and Photocontrol
-
-<ol start="7">
-<li>J. Li†, J. Du†, <b>W. He†</b>, I. Adelakun, M. Zhong, S. Boyer, Y.Y. Zheng, Q. Lin, S. Kirmizialtin*, J. Sheng*, and T. Wang*. <i>Designing reversible photoswitching azobenzene modified nucleotide for controlling biological function</i>. <i>Journal of the American Chemical Society</i>, <b>2025</b>, <b>Accepted</b>. <b><a href="https://chemrxiv.org/engage/chemrxiv/article-details/67a125dd81d2151a0212bcc4">ChemRxiv</a></b></li>
 </ol>
 
 ### DNA Assembly and Disassembly
