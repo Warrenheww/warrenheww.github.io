@@ -40,7 +40,7 @@ author_profile: true
 ### RNA Modifications and Photocontrol
 
 <ol start="7">
-<li>J. Li†, J. Du†, <b>W. He</b>, I. Adelakun, M. Zhong, S. Boyer, Y.Y. Zheng, Q. Lin, S. Kirmizialtin*, J. Sheng*, and T. Wang*. <i>Designing reversible photoswitching azobenzene modified nucleotide for controlling biological function</i>. <i>Journal of the American Chemical Society</i>, <b>2025</b>, <b>Accepted</b>. <b><a href="https://chemrxiv.org/engage/chemrxiv/article-details/67a125dd81d2151a0212bcc4">ChemRxiv</a></b></li>
+<li>J. Li†, J. Du†, <b>W. He†</b>, I. Adelakun, M. Zhong, S. Boyer, Y.Y. Zheng, Q. Lin, S. Kirmizialtin*, J. Sheng*, and T. Wang*. <i>Designing reversible photoswitching azobenzene modified nucleotide for controlling biological function</i>. <i>Journal of the American Chemical Society</i>, <b>2025</b>, <b>Accepted</b>. <b><a href="https://chemrxiv.org/engage/chemrxiv/article-details/67a125dd81d2151a0212bcc4">ChemRxiv</a></b></li>
 </ol>
 
 ### DNA Assembly and Disassembly
