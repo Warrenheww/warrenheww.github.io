@@ -37,9 +37,15 @@ author_profile: true
 <li><b>W. He</b>, N. Naleem, D. Kleiman, and S. Kirmizialtin*. <i>Refining RNA force field with Small-Angle X-ray Scattering of Helix-Junction-Helix RNA</i>. <i>Journal of Physical Chemistry Letters</i>, <b>2022</b>, <i>13</i>, 3400. <b><a href="https://pubs.acs.org/doi/10.1021/acs.jpclett.2c00359">Link</a></b> <b><a href="https://gitlab.com/KirmizialtinLab/hb_cufix">Code</a></b></li>
 </ol>
 
-### DNA Assembly and Disassembly
+### RNA Modifications and Photocontrol
 
 <ol start="7">
+<li>J. Li†, J. Du†, <b>W. He</b>, I. Adelakun, M. Zhong, S. Boyer, Y.Y. Zheng, Q. Lin, S. Kirmizialtin*, J. Sheng*, and T. Wang*. <i>Designing reversible photoswitching azobenzene modified nucleotide for controlling biological function</i>. <i>Journal of the American Chemical Society</i>, <b>2025</b>, <b>Accepted</b>. <b><a href="https://chemrxiv.org/engage/chemrxiv/article-details/67a125dd81d2151a0212bcc4">ChemRxiv</a></b></li>
+</ol>
+
+### DNA Assembly and Disassembly
+
+<ol start="8">
 <li><b>W. He</b>, and S. Kirmizialtin*. <i>Mechanism of Cationic Lipid-Induced DNA Condensation: Lipid-DNA coordination and divalent cation charge fluctuations</i>. <i>ACS Biomacromolecules</i>, <b>2024</b>, <i>25</i>, 4819. <b><a href="https://pubs.acs.org/doi/10.1021/acs.biomac.4c00192">Link</a></b></li>
 
 <li><b>W. He</b>, X. Qiu*, and S. Kirmizialtin*. <i>Sequence-dependent orientational coupling and electrostatic attraction in cation-mediated DNA-DNA interactions</i>. <i>Journal of Chemical Theory and Computation</i>, <b>2023</b>, <i>19</i>, 6827. <b>Cover article</b> <b><a href="https://pubs.acs.org/doi/10.1021/acs.jctc.3c00520">Link</a></b></li>
