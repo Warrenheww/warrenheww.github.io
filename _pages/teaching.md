@@ -13,7 +13,7 @@ I have actively contributed to academic training through teaching workshops and 
 
 - Led regularly laboratory workshops and tutorials on:
   - Biomolecular modeling and structural preparation ([**Slides**](https://docs.google.com/presentation/d/1im8vCeqI75p-QeEhnYMG0tgetJkQqNVD/edit?usp=sharing&ouid=101464749950981870898&rtpof=true&sd=true))
-  - Molecular dynamics simulations and data-driven simulations ([**Links**](https://drive.google.com/file/d/1kKvlTKTrKiCfn6kFZZkL0i7yByco4VHv/view?usp=sharing)) ([**Slides**](https://docs.google.com/presentation/d/1NKgimP5Nd2rNNry3Mtpw4lb_DHELFm4Q/edit?usp=sharing&ouid=101464749950981870898&rtpof=true&sd=true))
+  - Molecular dynamics simulations and data-driven simulations ([**Documentation**](https://docs.google.com/document/d/1jypUD5efvPp-h1dBK5xbHGySEShL_71m/edit?usp=sharing&ouid=101464749950981870898&rtpof=true&sd=true)) ([**Colab**](https://colab.research.google.com/drive/1kKvlTKTrKiCfn6kFZZkL0i7yByco4VHv)) ([**Slides**](https://docs.google.com/presentation/d/1NKgimP5Nd2rNNry3Mtpw4lb_DHELFm4Q/edit?usp=sharing&ouid=101464749950981870898&rtpof=true&sd=true))
   - Trajectory analysis and data visualization ([**Slides**](https://docs.google.com/presentation/d/1im8vCeqI75p-QeEhnYMG0tgetJkQqNVD/edit?usp=sharing&ouid=101464749950981870898&rtpof=true&sd=true))
   - Molecular visualization and presentation tools
 
