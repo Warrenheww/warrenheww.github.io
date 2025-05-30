@@ -50,10 +50,12 @@ My research integrates **molecular dynamics (MD) simulations**, **machine learni
 ## Community and Reviewing Service
 
 - Reviewer for:  
-  *Biology*, *Biomolecules*, *Condensed Matter*, *IJMS*, *Mathematics*, *Processes* (MDPI)
-- Reviewer for:  
-  *Current Opinion in Chemical Biology*, *Current Opinion in Structural Biology*,  
-  *Molecular Therapy: Nucleic Acids* (Elsevier)
+  *Biology*, *Biomolecules*, *Condensed Matter*, *International Journal of Molecular Sciences (IJMS)*,  
+  *Mathematics*, *Processes*, *Current Opinion in Chemical Biology*,  
+  *Current Opinion in Structural Biology*, *Molecular Therapy: Nucleic Acids*
+
+- Guest Editor for:  
+  *Biomolecules*, Special Issue on *"Nucleic Acid–Lipid Interactions: Bridging Molecular Insights with Therapeutic Applications"*
 
 ## 🔥 News
 - *2025.04*: &nbsp;🎉 **Sara Mahmoud Elgengehi** (RA, NYU Abu Dhabi, 2024–2025) has been admitted to the **Ph.D. program at New York University**. Sara worked with me on developing computational tools for predicting the Young’s modulus of biomaterials.
