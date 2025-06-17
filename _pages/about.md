@@ -21,6 +21,7 @@ My research integrates **molecular dynamics (MD) simulations**, **machine learni
 
 ## 🎖 Honors and Awards
 
+- Sigma Xi Full Membership (2025)
 - Postdoctoral Associate Conference Grant (2024)  
 - Poster Presentation Award – 14th European Biophysics Congress (2023)  
 - Summer Research Grant – NYU COVID-19 Antivirals Project (2022)  
