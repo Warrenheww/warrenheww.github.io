@@ -49,7 +49,7 @@ My research integrates **molecular dynamics (MD) simulations**, **machine learni
 ---
 
 ## Community and Reviewing Service
-- Postdoctoral Representative of Science Division, Postdoctoral Council Steering Committee (PCSC) NYU Abu Dhabi
+- Postdoctoral Representative of Science Division, **[Postdoctoral Council Steering Committee (PCSC)](https://nyuad.nyu.edu/en/research/postdoctoral-research/postdoctoral-council.html)**
 - Guest Editor for:  
   *Biomolecules*, Special Issue on *"Nucleic Acid–Lipid Interactions: Bridging Molecular Insights with Therapeutic Applications"*
 - Reviewer for:  
