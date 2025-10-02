@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints / In Review ("†" Equal contribution, "*" corresponding author, “_” advised student.)
 
-- <ins>S.M. Elgengehi</ins>, D.P. Karothu\*, **W. He**, R. Paul, S. Kirmizialtin\*, and P. Naumov\*. *Accurate Prediction of Young’s Moduli of Organic Crystals*. **Submitted to** *Nature Communications*, **2025**.
+- <ins>S.M. Elgengehi</ins>, D.P. Karothu\*, **W. He**, R. Paul, S. Kirmizialtin\*, and P. Naumov\*. *Accurate Prediction of Young’s Moduli of Organic Crystals*. **Accepted** *Journal of the American Chemical Society*, **2025**.
 
 ## Selected Publications ("†" Equal contribution, "*" corresponding author, “_” advised student.)
 
