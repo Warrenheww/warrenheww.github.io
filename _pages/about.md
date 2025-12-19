@@ -21,6 +21,8 @@ My research integrates **molecular dynamics (MD) simulations**, **machine learni
 
 ## 🎖 Honors and Awards
 
+- MIT Technology Review - Innovators Under 35 MENA Finalist
+- UAE ResearchMap Recognized Expert (2025)
 - Sigma Xi Full Membership (2025)
 - Postdoctoral Associate Conference Grant (2024)  
 - Poster Presentation Award – 14th European Biophysics Congress (2023)  
@@ -33,6 +35,8 @@ My research integrates **molecular dynamics (MD) simulations**, **machine learni
 
 ## Selected Talks and Posters
 
+- **Frontier in Computational Chemistry, Biophysics, and Biological Sciences** - Shenzhen, 2025 (*Talk*)
+- **9th Nano Today Conference** - Singapore, 2025 (*Talk*)
 - **APS March Meeting** – Hong Kong, 2025 (*Talk*)  
 - **Decrypting Complexity in Biological and Active Matter** – Abu Dhabi, 2025 (*Poster*)  
 - **Yongriver Forum** – Ningbo, 2024 (*Talk*)  
@@ -50,10 +54,11 @@ My research integrates **molecular dynamics (MD) simulations**, **machine learni
 
 ## Community and Reviewing Service
 - Postdoctoral Representative of Science Division, **[Postdoctoral Council Steering Committee (PCSC)](https://nyuad.nyu.edu/en/research/postdoctoral-research/postdoctoral-council.html)**
+- Associate Editor for *Frontiers in Biophysics*
 - Guest Editor for:  
   *Biomolecules*, Special Issue on *"Nucleic Acid–Lipid Interactions: Bridging Molecular Insights with Therapeutic Applications"*
 - Reviewer for:  
-  *Biology*, *Biomolecules*, *Condensed Matter*, *International Journal of Molecular Sciences (IJMS)*, *Mathematics*, *Processes*, *Current Opinion in Chemical Biology*, *Current Opinion in Structural Biology*, *Molecular Therapy: Nucleic Acids*
+  *Nanoscale*, *Communications Biology*, *Biology*, *Biomolecules*, *Biology*, *Mathematics*, *Processes*, *Current Opinion in Chemical Biology*, *Current Opinion in Structural Biology*, *Molecular Therapy: Nucleic Acids*
 
 ## 🔥 News
 - *2025.04*: &nbsp;🎉 **Sara Mahmoud Elgengehi** (RA, NYU Abu Dhabi, 2024–2025) has been admitted to the **Ph.D. program at New York University**. Sara worked with me on developing computational tools for predicting the Young’s modulus of biomaterials.
