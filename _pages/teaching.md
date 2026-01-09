@@ -7,7 +7,12 @@ author_profile: true
 
 ## Teaching and Mentoring Experience
 
-I have actively contributed to academic training through teaching workshops and mentoring students at various levels. My teaching focuses on biomolecular modeling, molecular dynamics (MD) simulations, and molecular analysis techniques.
+I have actively contributed to academic training through teaching workshops and mentoring students at various levels. My teaching focuses on biomolecular modeling, molecular dynamics (MD) simulations, and machine learning (ML) techniques.
+
+### Teaching Assistant
+
+- Summer Bootcamp on Python and PyTorch for Science and AI [**link**](https://docs.google.com/spreadsheets/d/1CloARMYKTBKSJbSLu9t6IcNBH3-DTMBf6X_h5qXwjXk/edit?gid=628654789#gid=628654789), led by Prof. Pratyush Tiwary (University of Maryland), June-July 2025.
+- Molecular Modeling Workshop [**link**](https://images.squarespace-cdn.com/content/v1/5ad2f154cef3728046000ee0/1748587252346-ZV4P6T976XMK35RYB9PH/IMG_4394.jpg?format=1500w), led by Profs. Serdal Kirmizialtin (NYU) and Ozgur Yazaydin (UCL), May 2025.
 
 ### Workshops and Tutorials
 
@@ -19,10 +24,11 @@ I have actively contributed to academic training through teaching workshops and 
 
 ### Student Mentoring
 
-- **Sara Mahmoud Elgengehi** – Research Assistant, NYU Abu Dhabi (since 2024)  
-- **Nour Alkhatib** – PhD student, NYU (since 2023)  
-- **Arafat Saleem** – High school student, Cranleigh Abu Dhabi (since 2023)  
-- **Ina Negoiu** – Summer research & capstone student, NYU Abu Dhabi (since 2023)  
+- **Assel Mukanova** – Summer research student, NYU Abu Dhabi (2025) → Master’s Student, UNIST South Korea
+- **Sara Mahmoud Elgengehi** – Research Assistant, NYU Abu Dhabi (2024-2025) → PhD student, NYU  
+- **Nour Alkhatib** – PhD student, NYU (2023-2025) 
+- **Arafat Saleem** – High school student, Cranleigh Abu Dhabi (2023-2024)  
+- **Ina Negoiu** – Summer research & capstone student, NYU Abu Dhabi (2023-2025)  
 - **Bereket Deneke** – Summer research student, NYU (2024)  
 - **Tianze Xia** – Undergraduate student, NYU (2024)  
 - **Hiba Aljayyousi** – PhD student, NYU Abu Dhabi (2023)  
