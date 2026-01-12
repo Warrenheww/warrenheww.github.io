@@ -21,7 +21,7 @@ My research integrates **molecular dynamics (MD) simulations**, **machine learni
 
 ## 🎖 Honors and Awards
 
-- Innovators Under 35 - MIT Technology Review Arabia (2025)
+- Innovators Under 35 MENA (TR35) - MIT Technology Review (2025)
 - UAE ResearchMap Recognized Expert (2025)
 - Sigma Xi Full Membership (2025)
 - Postdoctoral Associate Conference Grant (2024)  
